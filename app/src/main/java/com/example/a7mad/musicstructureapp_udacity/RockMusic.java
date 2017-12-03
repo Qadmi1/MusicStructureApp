@@ -9,5 +9,6 @@ public class RockMusic extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.music_rock);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }

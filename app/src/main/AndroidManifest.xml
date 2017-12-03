@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".BluesMusic"
-            android:label="@string/blues_music">
+            android:label="@string/blues_music"
+            android:parentActivityName=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,7 +28,8 @@
         </activity>
         <activity
             android:name=".RockMusic"
-            android:label="@string/rock_music">
+            android:label="@string/rock_music"
+            android:parentActivityName=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -36,7 +38,8 @@
         </activity>
         <activity
             android:name=".PopMusic"
-            android:label="@string/pop_music">
+            android:label="@string/pop_music"
+            android:parentActivityName=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

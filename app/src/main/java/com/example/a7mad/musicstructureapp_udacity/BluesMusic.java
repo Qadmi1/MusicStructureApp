@@ -9,5 +9,6 @@ public class BluesMusic extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.music_blues);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }
