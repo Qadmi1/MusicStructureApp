@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicStructureApp_Udacity</string>
+    <!-- Blues music genre. -->
+    <string name="blues">blues</string>
+    <!-- Rock music genre. -->
+    <string name="rock">rock</string>
+    <!-- Pop  music genre. -->
+    <string name="pop">pop</string>
+    <!-- Label for the BluesMusic Activity. -->
+    <string name="blues_music">Blues Music</string>
+    <!-- Label for the RockMusic Activity. -->
+    <string name="rock_music">Rock Music</string>
+    <!-- Label for the PopMusic Activity. -->
+    <string name="pop_music">Pop Music</string>
+</resources>
+
