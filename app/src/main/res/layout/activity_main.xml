@@ -7,15 +7,23 @@
     <Button
         android:id="@+id/blues"
         style="@style/genres"
-        android:text="@string/blues" />
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/piano"
+        android:text="@string/blues"
+        android:textColor="#2979FF" />
 
     <Button
         android:id="@+id/rock"
         style="@style/genres"
-        android:text="@string/rock" />
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/guitar"
+        android:text="@string/rock"
+        android:textColor="#009688" />
 
     <Button
         android:id="@+id/pop"
         style="@style/genres"
-        android:text="@string/pop" />
+        android:background="@drawable/pop"
+        android:text="@string/pop"
+        android:textColor="#6200EA" />
 </LinearLayout>
