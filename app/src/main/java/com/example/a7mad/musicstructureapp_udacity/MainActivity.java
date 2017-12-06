@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.rock:
                 Intent rockIntent = new Intent(MainActivity.this, RockMusic.class);
                 startActivity(rockIntent);
+                break;
             case R.id.pop:
                 Intent popIntent = new Intent(MainActivity.this, PopMusic.class);
                 startActivity(popIntent);

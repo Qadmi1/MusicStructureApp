@@ -12,5 +12,119 @@
     <string name="rock_music">Rock Music</string>
     <!-- Label for the PopMusic Activity. -->
     <string name="pop_music">Pop Music</string>
+    <!-- Songs for the blues genre. -->
+    <string name="hootchie">Hoochie Coochie Man</string>
+
+    <string name="muddy">Muddy Waters</string>
+
+    <string name="thrill">The Thrill is Gone</string>
+
+    <string name="king">B.B. King</string>
+
+    <string name="devil">Me And The Devil Blues</string>
+    
+    <string name="robert">Robert Johnson</string>
+    
+    <string name="stone">Stone Crazy</string>
+    
+    <string name="buddy">Buddy Guy</string>
+    
+    <string name="blind">I’d Rather Go Blind</string>
+    
+    <string name="elta">Etta James</string>
+
+    <string name="tore">I’m Tore Down</string>
+    
+    <string name="freddie">Freddie King</string>
+    
+    <string name="stormy">Call It Stormy Monday</string>
+
+    <string name="walker">T-Bone Walker</string>
+    
+    <string name="boogie">Boogie Chillen</string>
+
+    <string name="john">John Lee Hooker</string>
+    
+    <string name="house">Red House</string>
+    
+    <string name="hendrix">Jimi Hendrix</string>
+    
+    <string name="lightning">Smokestack Lightning</string>
+    
+    <string name="wolf">Howlin’ Wolf</string>
+    <!-- Songs for the Rock genre. -->
+    <string name="heaven">Stairway to Heaven</string>
+
+    <string name="led">Led Zeppelin</string>
+
+    <string name="bohemian">Bohemian Rhapsody</string>
+    
+    <string name="queen">Queen</string>
+    
+    <string name="hotel">Hotel California</string>
+    
+    <string name="eagles">The Eagles</string>
+
+    <string name="bird">Free Bird</string>
+
+    <string name="skynard">Lynyrd Skynyrd</string>
+
+    <string name="baba">Baba ORiley</string>
+
+    <string name="who">The Who</string>
+
+    <string name="numb">Comfortably Numb</string>
+
+    <string name="floyd">Pink Floyd</string>
+
+    <string name="carry">Carry on Wayward Son</string>
+
+    <string name="kansas">Kansas</string>
+    
+    <string name="paint">Paint It Black</string>
+
+    <string name="stones">The Rolling Stones</string>
+
+    <string name="day">A Day in the Life</string>
+
+    <string name="beatles">The Beatles</string>
+    
+    <string name="judy">Hey Jude</string>
+    <!-- Songs for the Rock genre. -->
+    <string name="thriller">Thriller</string>
+
+    <string name="micheal">Michael Jackson</string>
+
+    <string name="billie">Billie Jean</string>
+
+    <string name="always">I Will Always Love You</string>
+    
+    <string name="whitney">Whitney Houston</string>
+
+    <string name="call">Call Me Maybe</string>
+    
+    <string name="carly">Carly Rae Jepsen</string>
+
+    <string name="purple">Purple Rain</string>
+
+    <string name="prince">Prince</string>
+    
+    <string name="tonight">Tonight</string>
+    
+    <string name="enrique">Enrique Iglesias</string>
+
+    <string name="everything">Give Me Everything</string>
+
+    <string name="pitbull">Pitbull</string>
+
+    <string name="bad">Bad</string>
+    
+    <string name="gangham">Gangnam Style</string>
+    
+    <string name="psy">PSY</string>
+
+    <string name="uptown">Uptown Funk</string>
+    
+    <string name="ronson">Mark Ronson</string>
 </resources>
 

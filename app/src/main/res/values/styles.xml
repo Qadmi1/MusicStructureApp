@@ -16,4 +16,9 @@
         <item name="android:textSize">48sp</item>
     </style>
 
+    <!-- Style for the TextViews in the song_item.xml -->
+    <style name="song_list">
+        <item name="android:textStyle">italic</item>
+        <item name="android:typeface">serif</item>
+    </style>
 </resources>
